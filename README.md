@@ -1,5 +1,7 @@
 # Future-Sales-Prediction-using-Machine-Leanring
-Predict Future Sale  Kaggle competition: https://www.kaggle.com/c/competitive-data-science-predict-future-sales
+####  Predict Future Sale  Kaggle competition: https://www.kaggle.com/c/competitive-data-science-predict-future-sales
+
+
 ![](https://d25qe19fo1nsn4.cloudfront.net/wp-content/uploads/2016/12/how-to-do-a-competitive-analysis-blog-header-1024x386.jpg)
 
 In this competition you will work with a challenging time-series dataset consisting of daily sales data, kindly provided by one of the largest Russian software firms - 1C Company. 
